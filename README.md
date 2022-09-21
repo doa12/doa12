@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?types=slice&color=auto&height=350&section=header&text=DaHeenKim&fontSize=75)
+![header](https://capsule-render.vercel.app/api?types=slice&color=F6CED8&height=375&section=header&text=DaHeenKim&fontSize=75)
   <h2>🐣 Junior Front-End Engineer</h2>
   
   [![Blog's GitHub stats](https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/agny_) 
