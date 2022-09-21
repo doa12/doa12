@@ -1,6 +1,4 @@
-
-
-![header](https://capsule-render.vercel.app/api?types=slice&color=F6CED8&height=375&section=header&text=DaHeenKim&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=DA%20HEEN%20KIM&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=F2F2F2)
   <h2>🐣 Junior Front-End Engineer</h2>
   
   [![Blog's GitHub stats](https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/agny_) 
@@ -40,9 +38,6 @@
   <br />
   <br />
 
-  <div>
-    <img src='https://github-readme-stats.vercel.app/api?username=doa12&theme=swift&show_icons=true&count_private=true&hide=stars&hide_border=true' align='center' />
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=doa12&show_icons=true&layout=compact&theme=graywhite&hide_border=true' align='center' />
-  </div>
   
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doa12)](https://github.com/anuraghazra/github-readme-stats)
   
