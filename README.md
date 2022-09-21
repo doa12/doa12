@@ -1,3 +1,5 @@
+#Dark Mode
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=DA%20HEEN%20KIM&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=F2F2F2)
   <h2>🐣 Junior Front-End Engineer</h2>
   
