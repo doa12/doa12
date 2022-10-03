@@ -46,7 +46,7 @@
   <br />
   <br />
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doa12)](https://github.com/anuraghazra/github-readme-stats)
+  [![doa12's github stats](https://github-readme-stats.vercel.app/api?username=doa12)](https://github.com/doa12/github-readme-stats)
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doa12&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
   
