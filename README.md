@@ -23,6 +23,7 @@
 
   <br />
   <br />
+  <br />
   
   <div>
     <h3>🌱 Currently Learning </h3>
@@ -30,6 +31,7 @@
     <img src='https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react query&logoColor=white'>
     <img src='https://img.shields.io/badge/Redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white'>
     <img src='https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=rust&logoColor=white'>
+  <br />
   <br />
     <img src='https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white'>
     <img src='https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=python&logoColor=white'>
@@ -41,9 +43,12 @@
   <br />
   <br />
   <br />
-
+  <br />
+  <br />
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=doa12)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doa12&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
   
   <br />
   
