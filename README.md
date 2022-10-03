@@ -46,7 +46,6 @@
   <br />
   
   [![doa12's github stats](https://github-readme-stats.vercel.app/api?username=doa12)](https://github.com/doa12/github-readme-stats)
-  <a href="https://opgc.me/#/users/doa12" target="_blank"><img src="https://api.opgc.me/githubs/users/doa12/tag/?theme=basic" /></a>
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doa12&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
   
