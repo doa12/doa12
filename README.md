@@ -50,9 +50,5 @@
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doa12&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
   
-  <br />
-  
-  <h3 align='right'> 💌 How to contact </h3>
-  <h5 align='right'> agny_@naver.com </h5>
-  
+  <br /> 
   <br />
