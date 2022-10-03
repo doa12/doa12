@@ -1,6 +1,5 @@
 #Dark Mode
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=DA%20HEEN%20KIM&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=F2F2F2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DA%20HEEN%20KIM&fontAlign=50&fontAlignY=50&fontSize=90&fontColor=F2F2F2)
   <h2>🐣 Junior Front-End Engineer</h2>
   
   [![Blog's GitHub stats](https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/agny_) 
@@ -47,6 +46,7 @@
   <br />
   
   [![doa12's github stats](https://github-readme-stats.vercel.app/api?username=doa12)](https://github.com/doa12/github-readme-stats)
+  <a href="https://opgc.me/#/users/doa12" target="_blank"><img src="https://api.opgc.me/githubs/users/doa12/tag/?theme=basic" /></a>
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doa12&show_icons=true&layout=compact&theme=graywhite&hide_border=true" align="center"/>
   
